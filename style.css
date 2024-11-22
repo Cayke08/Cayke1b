@@ -1,3 +1,14 @@
 body{
-    font-family: "Indie Flower", cursive;
+    font-family: "Indie Flower", cursive;2w '
+    background: purple;
+    color: white;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+.chamada{
+    background: red;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
